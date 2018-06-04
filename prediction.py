@@ -2,7 +2,6 @@ import json
 
 periodic_table = {}
 
-
 # #################################LOAD DATA##################################
 
 with open('data/tp.json') as json_data:
